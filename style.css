@@ -342,7 +342,7 @@ box-shadow:0 6px 15px rgba(0,0,0,0.15);
 }
 
 
-/* RESPONSIVE DESIGN */
+/* A design that enables the smooth visibility of the website on a cellphone */
 
 /* This is for  when the screen width is small (phones) */
 @media (max-width:600px){
