@@ -39,6 +39,7 @@ text
  * Added: Created the core files for the website (index.html, about.html, and menu.html).
  * Added: Created the table for the cake prices and sizes.
  * Added: Created the input fields for the enquiry form.
+   
  📌 Part 2: CSS, Mobile Fixes & Documentation
  * Added: Created and fully built out this README.md file to properly document the project, which was missing in the previous phase.
  * Added: Included a professional cover page at the beginning of the business proposal.
