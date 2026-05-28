@@ -65,7 +65,8 @@ text
 * Candice Cakes. (2026, May). Logo and cake designs, photographs for website development [Personal communication via WhatsApp].
 ---
 6. WEBSITE VIEW ON DIFFERENT DEVICES
-DESKTOP VIEW
+   
+* DESKTOP VIEW
 ---HP 15-FHD Laptop - Intel Core 5---
 <img width="1906" height="875" alt="Desktop view" src="https://github.com/user-attachments/assets/d9731418-0bcd-4507-a63e-7c7f3bd2ee09" />
 <img width="1914" height="956" alt="Desktop view (2)" src="https://github.com/user-attachments/assets/dda61fa0-a1fa-46dc-89d5-7f1fcd3527e7" />
@@ -78,7 +79,8 @@ DESKTOP VIEW
 <img width="1911" height="868" alt="Desktop view (9)" src="https://github.com/user-attachments/assets/f88a585b-f7f1-43f8-9c57-ba0db6d0a6d6" />
 <img width="1902" height="962" alt="Desktop view (10)" src="https://github.com/user-attachments/assets/b8742715-5029-410d-85f9-4a34b3ae7a43" />
 
-TABLET VIEW
+
+* TABLET VIEW
 ---Samsung Galaxy Tab S8---
 <img width="773" height="941" alt="Screenshot 2026-05-28 011326" src="https://github.com/user-attachments/assets/a121566f-5f2c-4d36-bd10-0e7a253643ca" />
 <img width="737" height="894" alt="Tablet view (2)" src="https://github.com/user-attachments/assets/c15f209a-f39e-44a3-95ca-12e98cd010e9" />
@@ -86,7 +88,8 @@ TABLET VIEW
 <img width="739" height="890" alt="Tablet view (4)" src="https://github.com/user-attachments/assets/a7a5f481-33b1-4077-af15-990599114670" />
 <img width="791" height="932" alt="Tablet view (5)" src="https://github.com/user-attachments/assets/47def655-392f-49c1-a8f0-1eb22d52048f" />
 
-MOBILE VIEW
+
+* MOBILE VIEW
 ---iPhone 15 Pro Max----
 <img width="674" height="889" alt="Mobile view" src="https://github.com/user-attachments/assets/67fdce16-f010-4302-8aa5-2581b81e6c90" />
 <img width="733" height="883" alt="Mobile view (2)" src="https://github.com/user-attachments/assets/d152d8f5-251e-4bb4-8778-77424a92c26e" />
