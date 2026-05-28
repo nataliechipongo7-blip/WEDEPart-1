@@ -52,8 +52,8 @@ text
  * Changed: Split the long paragraphs on the About page into separate blocks with a colored left border.
  * Added: Applied the final website colors (Rose Brown, Soft Pink, and Seashell background).
  * Added: Included Screenshots of the website on the following mobile devices:
-   -- 
-
+   
+---
 5. References
 * Ashwin S. (20, May 2026). How Much Does It Cost to Build a Website in South Africa? Retrieved from Host Africa: Available at https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa/
 * Brunel Studios. (n.d.). How Much Should I Expect to Pay for a Website Design in Cape Town? Retrieved from Brunel Studios: Available at https://brunelstudios.co.za/cost-of-website-design-in-cape-town/
@@ -63,8 +63,8 @@ text
 *W3Schools. (n.d.). CSS Tutorial. Retrieved from W3Schools: Available at https://www.w3schools.com/css/default.asp
 *YouTube. (2019, July 29). Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code. Retrieved from YouTube: Available at https://youtu.be/C5QFHp1oAws?si=kCY0gpV0brNPa1M4
 *Candice Cakes. (2026, May). Logo and cake designs, photographs for website development [Personal communication via WhatsApp].
-
-
+---
+*WEBSITE VIEW ON DIFFERENT DEVICES
 DESKTOP VIEW
 ---HP 15-FHD Laptop - Intel Core 5---
 <img width="1906" height="875" alt="Desktop view" src="https://github.com/user-attachments/assets/d9731418-0bcd-4507-a63e-7c7f3bd2ee09" />
