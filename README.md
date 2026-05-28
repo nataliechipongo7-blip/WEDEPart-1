@@ -9,7 +9,7 @@ Location: Gugulethu, Cape Town
  1. Project Overview & Objectives
 Candice Cakes is a home-based bakery specializing in custom, affordable celebration cakes. This project transitions the business from temporary WhatsApp messages to a permanent digital storefront.
 
--24/7 Visibility & Lasting Portfolio:* Displays high-quality cake galleries permanently.
+-24/7 Visibility & Lasting Portfolio: Displays high-quality cake galleries permanently.
 -Time-Saving Automation: Uses a clean HTML Menu Table to answer repetitive pricing and flavor questions.
 -Structured Enquiries: Features a dedicated Form to capture dates, themes, and allergies.
 
