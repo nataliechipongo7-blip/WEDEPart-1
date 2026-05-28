@@ -58,13 +58,13 @@ text
 * Ashwin S. (20, May 2026). How Much Does It Cost to Build a Website in South Africa? Retrieved from Host Africa: Available at https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa/
 * Brunel Studios. (n.d.). How Much Should I Expect to Pay for a Website Design in Cape Town? Retrieved from Brunel Studios: Available at https://brunelstudios.co.za/cost-of-website-design-in-cape-town/
 * Canva. (n.d.). Wireframe templates. Retrieved from Canva: Available at: https://www.canva.com
-*sololearn. (n.d.). Introduction to CSS. Retrieved from sololearn: Available at https://www.sololearn.com/en/learn/courses/css-introduction
-*TRUEHOST. (2026, April). Cheapest .co.za Domain Registration South Africa 2026: Real Prices Compared. Retrieved from TRUEHOST: Available at https://truehost.co.za/cheapest-co-za-domain-registration-south-africa/
-*W3Schools. (n.d.). CSS Tutorial. Retrieved from W3Schools: Available at https://www.w3schools.com/css/default.asp
-*YouTube. (2019, July 29). Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code. Retrieved from YouTube: Available at https://youtu.be/C5QFHp1oAws?si=kCY0gpV0brNPa1M4
-*Candice Cakes. (2026, May). Logo and cake designs, photographs for website development [Personal communication via WhatsApp].
+* sololearn. (n.d.). Introduction to CSS. Retrieved from sololearn: Available at https://www.sololearn.com/en/learn/courses/css-introduction
+* TRUEHOST. (2026, April). Cheapest .co.za Domain Registration South Africa 2026: Real Prices Compared. Retrieved from TRUEHOST: Available at https://truehost.co.za/cheapest-co-za-domain-registration-south-africa/
+* W3Schools. (n.d.). CSS Tutorial. Retrieved from W3Schools: Available at https://www.w3schools.com/css/default.asp
+* YouTube. (2019, July 29). Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code. Retrieved from YouTube: Available at https://youtu.be/C5QFHp1oAws?si=kCY0gpV0brNPa1M4
+* Candice Cakes. (2026, May). Logo and cake designs, photographs for website development [Personal communication via WhatsApp].
 ---
-*WEBSITE VIEW ON DIFFERENT DEVICES
+6. WEBSITE VIEW ON DIFFERENT DEVICES
 DESKTOP VIEW
 ---HP 15-FHD Laptop - Intel Core 5---
 <img width="1906" height="875" alt="Desktop view" src="https://github.com/user-attachments/assets/d9731418-0bcd-4507-a63e-7c7f3bd2ee09" />
