@@ -1,6 +1,6 @@
 
 WEDE5020 POE (Part 2) - Candice Cakes Storefront
-Natalie Chipongo  
+*Natalie Chipongo  
 Student Number: ST10537937  
 Location: Gugulethu, Cape Town  
 
