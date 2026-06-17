@@ -123,9 +123,7 @@ text
 <img width="707" height="889" alt="Mobile view (7)" src="https://github.com/user-attachments/assets/b5685c4f-8e7d-4ff9-a9c1-8143858332f3" />
 
 
-### 7. DEPLOYMENT PROOF
 
-<img width="750" height="auto" alt="Netlify-Deployment-proof" src="Documents/Netlify-Deployment-proof.png" />
 
 
 
