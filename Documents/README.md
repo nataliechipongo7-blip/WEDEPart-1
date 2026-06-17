@@ -125,7 +125,8 @@ text
 ---
 
 7. DEPLOYMENT PROOF
-<img width="750" src="https://raw.githubusercontent.com/nataliechipongo7-bip/WEDE5020Part-1/main/Documents/Netlify-Deployment-proof.png" alt="Netlify Deployment Proof" />
+<img width="1532" height="665" alt="Netlify-Deployment-proof" src="https://github.com/user-attachments/assets/238071ba-ba80-4bfc-9ed1-637bd0581129" />
+
    
 
 
