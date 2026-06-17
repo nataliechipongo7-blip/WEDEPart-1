@@ -124,8 +124,8 @@ text
 
 
 ### 7. DEPLOYMENT PROOF
+<img width="750" height="auto" alt="Netlify Deployment Proof" src="images/Netlify-Deployment-proof.png" />
 
-<img width="750" height="auto" alt="Netlify Deployment Proof" src="images/deployment-proof.png" />
 
 
 
