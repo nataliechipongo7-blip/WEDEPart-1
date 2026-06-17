@@ -56,7 +56,7 @@ text
 
 ### 📌 Part 3: SEO, Security, Interactive Elements & Netlify Deployment
 
-
+* *Added:* Added a Zip file docment of my Content Research and Sourcing (which was previosly missing) 
  * *Added:* Created a robots.txt file to properly direct search engine crawlers.
  * *Added:* Created a sitemap.xml file to outline the complete website page architecture for search engines.
  * *Added:* Configured unique meta keywords, descriptions, and title tags across all HTML pages to improve search engine optimization (SEO).
