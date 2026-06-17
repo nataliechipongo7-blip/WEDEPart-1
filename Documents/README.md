@@ -52,6 +52,27 @@ text
  * Changed: Split the long paragraphs on the About page into separate blocks with a colored left border.
  * Added: Applied the final website colors (Rose Brown, Soft Pink, and Seashell background).
  * Added: Included Screenshots of the website on the following mobile devices:
+
+
+### 📌 Part 3: SEO, Security, Interactive Elements & Netlify Deployment
+
+
+ * *Added:* Created a robots.txt file to properly direct search engine crawlers.
+ * *Added:* Created a sitemap.xml file to outline the complete website page architecture for search engines.
+ * *Added:* Configured unique meta keywords, descriptions, and title tags across all HTML pages to improve search engine optimization (SEO).
+ * *Added:* Configured a custom _headers file to implement strict security policies for the Netlify deployment.
+ * *Added:* Applied the loading="lazy" attribute to all images in the cake gallery to optimize page loading speeds.
+ * *Added:* Implemented interactive JavaScript accordion elements on specific pages to organize content and improve user navigation.
+ * *Added:* Integrated an interactive Map element to allow customers to easily view the business location.
+ * *Added:* Built a dynamic JavaScript Gallery Lightbox feature to let users click and view cake images in a full-screen overlay.
+ * *Added:* Developed dynamic content elements and an internal Search Engine feature to allow users to search for specific items smoothly.
+ * *Added:* Created a dedicated Reviews Section to display feedback from previous customers on the website.
+ * *Added:* Implemented an interactive rating system allowing new customers to rate the cakes and the overall service.
+ * *Added:* Added JavaScript file validation to ensure the enquiry form captures and processes user inputs correctly without issues.
+ * *Added:* Connected the GitHub repository to Netlify for continuous integration and successfully deployed the project live.
+ * *Changed:* Configured a clean, professional custom URL on Netlify ([https://candicecakes.netlify.app]) for the final submission.
+ * *Added:* Included screenshots of the successful GitHub commit history and the verified Netlify deployment screen in the final document.
+ * *Changed:* Updated the reference list to include formal academic citations for Netlify and the external deployment video guide used.
    
 ---
 5. References
@@ -63,6 +84,8 @@ text
 * W3Schools. (n.d.). CSS Tutorial. Retrieved from W3Schools: Available at https://www.w3schools.com/css/default.asp
 * YouTube. (2019, July 29). Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code. Retrieved from YouTube: Available at https://youtu.be/C5QFHp1oAws?si=kCY0gpV0brNPa1M4
 * Candice Cakes. (2026, May). Logo and cake designs, photographs for website development [Personal communication via WhatsApp].
+* *Netlify.* 2026. Netlify App Deployment Platform. Available at: https://app.netlify.app/ [Accessed 17 June 2026].
+ * *YouTube.* 2026. How to Deploy a Website on Netlify from GitHub. Available at: https://www.youtube.com [Accessed 17 June 2026].
 ---
 6. WEBSITE VIEW ON DIFFERENT DEVICES
    
@@ -100,9 +123,9 @@ text
 <img width="707" height="889" alt="Mobile view (7)" src="https://github.com/user-attachments/assets/b5685c4f-8e7d-4ff9-a9c1-8143858332f3" />
 
 
+### 7. DEPLOYMENT PROOF
 
-
-
+<img width="750" height="auto" alt="Netlify Deployment Proof" src="images/deployment-proof.png" />
 
 
 
