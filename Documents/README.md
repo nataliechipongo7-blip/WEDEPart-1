@@ -125,7 +125,7 @@ text
 
 ### 7. DEPLOYMENT PROOF
 
-<img width="750" src="https://github.com/user-attachments/assets/b5685c4f-8e7d-44f9-a9c1-8143858332f3" alt="Netlify-Deployment-proof" />
+<img width="750" height="auto" alt="Netlify-Deployment-proof" src="Documents/Netlify-Deployment-proof.png" />
 
 
 
