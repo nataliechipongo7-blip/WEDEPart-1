@@ -122,11 +122,11 @@ text
 <img width="681" height="873" alt="Mobile view (6)" src="https://github.com/user-attachments/assets/e7e6af3c-9410-48d8-bf48-2397cbae98f3" />
 <img width="707" height="889" alt="Mobile view (7)" src="https://github.com/user-attachments/assets/b5685c4f-8e7d-4ff9-a9c1-8143858332f3" />
 
+---
 
-
-
-
-
+7. DEPLOYMENT PROOF
+<img width="750" src="https://raw.githubusercontent.com/nataliechipongo7-bip/WEDE5020Part-1/main/Documents/Netlify-Deployment-proof.png" alt="Netlify Deployment Proof" />
+   
 
 
 
